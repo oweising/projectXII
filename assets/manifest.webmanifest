@@ -1,0 +1,21 @@
+{
+  "name": "MASAR GROWTH",
+  "short_name": "MASAR",
+  "description": "Revenue Control & Growth Systems for E-commerce Brands",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#030b08",
+  "theme_color": "#05130d",
+  "icons": [
+    {
+      "src": "/assets/img/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
